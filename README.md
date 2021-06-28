@@ -3,8 +3,12 @@
 <p align="center">
   <a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
-
   </a>
+
+<a href="https://t.me/GitCodex">
+    <img src="https://github.com/GitHubsantu/PyrogramGenStr/blob/main/resources/madebycodex-badge_copy_250x56.png" width="250">
+  </a>
+  
 </p>
 <p align="center">
   <a href="https://github.com/GitHubsantu/Auto-Filter-Bot-V2/stargazers">
